@@ -12,7 +12,7 @@ Medial-AI seamlessly connects with your Xero data, enabling smarter decision-mak
 
 *Project Link:* https://medial-webapp-dev.azurewebsites.net/
 
-*Loom Video:* https://medial-webapp-dev.azurewebsites.net/
+*Loom Video:* https://www.loom.com/share/08cd4fe47bc84263b8bd2e107430442b?sid=f94e0e56-63ee-45bb-96d8-a0c8b86f6518
 
 *Overview Image:*
 
